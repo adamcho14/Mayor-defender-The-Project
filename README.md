@@ -1,16 +1,16 @@
 # Mayor-defender-The-Project
 Repository structure and decription: 
 Mayor-defender-The-Project
-- Assets
-- - Materials
+1 Assets
+1.1 Materials
 ---> Definitions of all materials used by objects
-- - Prefabs
+1.2 Prefabs
 ---> Definitions of prebafs from which all the objects are instantiated
--- Scripts
+1.3 Scripts
 ---> My code is here: This is the code of the whole game. It is objects' behavior, connections between them etc.
--- Red Square.unity
+1.4 Red Square.unity
 ---> This is the main scene. Its name comes from the first item ever placed into this scene. The item no longer exists.
-- Project Settings
+2 Project Settings
 --> Various automatically generated settings and managers
 
 Characters in the game and their behavior:
