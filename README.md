@@ -2,9 +2,9 @@
 Repository structure and decription: 
 Mayor-defender-The-Project
 - Assets
--- Materials
+- - Materials
 ---> Definitions of all materials used by objects
--- Prefabs
+- - Prefabs
 ---> Definitions of prebafs from which all the objects are instantiated
 -- Scripts
 ---> My code is here: This is the code of the whole game. It is objects' behavior, connections between them etc.
