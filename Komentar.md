@@ -1,4 +1,4 @@
-## Môj komentár k projektu a vývojovému prostrediu Unity 3D
+# Môj komentár k projektu a vývojovému prostrediu Unity 3D
 
 Pri vývoji hry som používal Unity 3D. Obsahuje grafický editor na prácu s herným svetom a taktiež IDE ta tvorbu skriptov. 
 Skriptovací jazyk, ktorý som použil, bol C#. Výhody Unity s v tom, že sa tam naozaj dá naprogramovať všetko, 
