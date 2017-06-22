@@ -10,3 +10,7 @@ som použil raz max. dvakrát. Preto vývoj hry trvá dlhšie a kód je dlhší.
 
 Mojim najväčším problémom bolo mapovanie polohy myši na polohu na rovine, v ktorej sa hra, odohrávala, a preto sa mi nedarilo 
 spôsobiť to, aby strelec strieľal tam, kam hráč chce vystreliť.
+
+##Plány do budúcna
+
+Momentálne je hra jen akýmsi prototypom, na ktorom sme si odskúšali možnosti vývojových prostredí. Chceli by sme na hre popracovať ďalej, pridať nové typy postáv, efekty, špeciálne schopnosti a nové zbrane, nech sa hra stane atraktívnou pre hráčov a nech môže byť zverejnená na internete.
